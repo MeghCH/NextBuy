@@ -84,7 +84,3 @@ Based on the analysis, key recommendations include:
 - Optimize inventory management for high-penetration aisles
 - Implement targeted marketing strategies for organic products in relevant departments
 - Adjust logistics planning based on temporal ordering patterns
-
-## License
-
-This project is for educational purposes as part of the Epitech data analysis curriculum.
